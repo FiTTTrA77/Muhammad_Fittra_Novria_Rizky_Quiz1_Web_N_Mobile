@@ -1,0 +1,31 @@
+body{
+                background-image: url('ringbasket2.jpg'); 
+                background-size: cover;   
+                background-repeat: no-repeat;  
+                background-attachment: fixed; 
+                background-position: center;  
+                color: rgb(4, 254, 233); 
+               
+            }
+h2{ color: purple ;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+ul{
+    text-align: left;
+    color: white;
+}
+p{
+    color: rgb(227, 13, 13);
+}
+audio{
+    display: block;
+    margin:0 auto;
+}
+p1{
+    text-align: center;
+    color: rgb(17, 255, 0);
+    display: block;
+}
